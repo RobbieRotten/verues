@@ -13,7 +13,7 @@ If you would like to add a video to Verues, please ensure:
 - Rate your video for the correct age group. If it is something for kids, suggest the age group for 3-10. If it is full of violence and colorful words, perhaps set the age group to 18+. If it is in the middle, perhaps set the age group to 11-17.
 
 To upload your video, navigate to the `subpages` directory, and you should see `template.html`. If you have the repository cloned to your desktop (which is recommended), copy the template to the `/subpages/Videos/` directory and rename it to the title of your video (your show) without spaces or punctuation, followed by the number of the season than episode. For example, if you have a show called Danny's Adventure, you would call the template `DannysAdventure12`, which would mean this is Episode 2 in the first season of Danny's Adventure.
-If you have your your show's media on YouTube, you can embed it in the template. If not, upload it to the `/media/media/` directory, and set the width to `1280` and the height to `720` (1280x720). Your tag should look like this:
+If you have your your show's media on YouTube, you can embed it in the template. If not, upload it to the `/media/Videos/media/` directory, and set the width to `1280` and the height to `720` (1280x720). Your tag should look like this:
 `<video width="1280" height="720" controls>
   <source src="media/DannysAdventure12.mp4" type="video/mp4">
 Your browser does not support the video tag.
