@@ -6,4 +6,4 @@ It will be completly open sourced, so anyone can improve the site as time goes o
 
 # Adding a video to Verues:
 
-See [Adding a Video to Verues] (https://github.com/PJBeans/verues/wiki/Uploading-a-video-to-Verues.)
+See [Adding a Video to Verues](https://github.com/PJBeans/verues/wiki/Uploading-a-video-to-Verues.)
