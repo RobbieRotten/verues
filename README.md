@@ -12,4 +12,5 @@ See [Adding a Video to Verues](https://github.com/PJBeans/verues/wiki/Uploading-
 
 - A better interface
 - An interested community (of course)
-- If the platform begins to take off, some sort of committee to review the site for videos, as well as a group that can accept pull requests quickly, as 1 or 2 people may be unable too right when a user creates a pull request.
+- If the platform begins to take off, some sort of committee to review videos on the site, to ensure some kids didn't upload their first iMovie project.
+- A group that can accept pull requests quickly, as 1 or 2 people may be unable too right when a user creates a pull request.
